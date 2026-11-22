@@ -1,0 +1,38 @@
+[
+  {
+    "name": "India.gov.in",
+    "base_url": "https://www.india.gov.in/",
+    "allowed_domains": ["india.gov.in"],
+    "enabled": true
+  },
+  {
+    "name": "myScheme",
+    "base_url": "https://www.myscheme.gov.in/",
+    "allowed_domains": ["myscheme.gov.in"],
+    "enabled": true
+  },
+  {
+    "name": "MahaDBT",
+    "base_url": "https://mahadbt.maharashtra.gov.in/",
+    "allowed_domains": ["mahadbt.maharashtra.gov.in"],
+    "enabled": true
+  },
+  {
+    "name": "Maharashtra Government",
+    "base_url": "https://www.maharashtra.gov.in/",
+    "allowed_domains": ["maharashtra.gov.in"],
+    "enabled": true
+  },
+  {
+    "name": "PM-KISAN",
+    "base_url": "https://pmkisan.gov.in/",
+    "allowed_domains": ["pmkisan.gov.in"],
+    "enabled": true
+  },
+  {
+    "name": "National Scholarship Portal",
+    "base_url": "https://scholarships.gov.in/",
+    "allowed_domains": ["scholarships.gov.in"],
+    "enabled": true
+  }
+]
